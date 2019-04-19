@@ -5,3 +5,6 @@
 # Durango log system
 * https://www.slideshare.net/ssuser380e9c/ndc18-95524337
 * https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893
+
+# How to design good RESTful API?
+* https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
