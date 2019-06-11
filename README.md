@@ -4,3 +4,6 @@
 
 # How to design good RESTful API?
 * https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
+
+# NLP 기초
+* http://hero4earth.com/blog/learning/2018/01/17/NLP_Basics_01/
