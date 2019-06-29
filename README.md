@@ -7,3 +7,6 @@
 
 # NLP 기초
 * http://hero4earth.com/blog/learning/2018/01/17/NLP_Basics_01/
+
+# CI/CD
+* http://www.nextree.co.kr/p10799/
